@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVB.hk",翡翠台
+http://radius.8866.org:880/hls/80/index.m3u8
+#EXTINF:-1 tvg-id="CCM.hk",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
